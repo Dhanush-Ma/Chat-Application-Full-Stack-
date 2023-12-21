@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://brunty.me/files/chat-bgs/1.0/blue-pink-100-pct.png");
+    background-size: 100vh 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerContainer{
+    width: 700px;
+    height: 80vh;
+    background: #0b0c11;
+    color: #ededee;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
